@@ -1,0 +1,8 @@
+// FUNCTIONS //
+
+add(): Adds an element.
+update(): Adds any iterable object such as lists, tuples.
+discard(): Removes an element and if it does not exist, no error is thrown.
+remove(): Removes an element and if it does not exist, raises the error "KeyError".
+pop(): Returns and removes a random element, and if the set is empty, raises the error "KeyError".
+clear(): Removes all content from the set.
